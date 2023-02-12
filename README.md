@@ -9,7 +9,7 @@ I'm currently working as a SWE in Dallas.
 - 🐳 Fun Fact! My MBTI is ESFJ
 - 💬 Give me Question [Click](https://github.com/developNY/developNY/issues)
 - 📫 How to reach me: sksldi0@gmail.com
-- SNS <a href="https://www.instagram.com/bri_nyny/">
+- <a href="https://www.instagram.com/bri_nyny/">
   <img align="left" alt="bri_nyny | Instagram" width="20px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" />
 </a>
 <a href="https://www.youtube.com/channel/UCuQNkM1myjWvBR49M3tabPQ">
