@@ -26,8 +26,7 @@
   <br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developNY&layout=compact)](https://github.com/developNY/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developNY)](https://github.com/developNY/github-readme-stats)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=developNY&show_icons=true&theme=synthwave)](https://github.com/developNY/github-readme-stats)
 
 </div>
 
