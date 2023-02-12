@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on TraxID, LLC (Full-stack SWE Intern)
+- 🔭 I had worked at Inzent (Java Back-end Developer, SWE Intern)
+- 🌱 I’m currently learning Software Engineering & Machine Learning
+- 👯 I’m looking to collaborate on ML Application
+- 💬 Ask me about Web Development
+- 📫 How to reach me: sksldi0@gmail.com
 
 <div align=center>
   📝 Studying...<br/>
@@ -24,15 +30,8 @@
   <img src="https://img.shields.io/badge/Pycharm-83B81A?style=flat-square&logo=Pycharm&logoColor=white"/>
   
   <br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developNY&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developNY&langs_count=10&layout=compact&theme=dark)](https://github.com/developNY/developNY)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=developNY&show_icons=true&theme=synthwave)](https://github.com/developNY/github-readme-stats)
 
 </div>
-
-- 🔭 I’m currently working on TraxID, LLC (Full-stack SWE Intern)
-- 🔭 I had worked at Inzent (Java Back-end Developer, SWE Intern)
-- 🌱 I’m currently learning Software Engineering & Machine Learning
-- 👯 I’m looking to collaborate on ML Application
-- 💬 Ask me about Web Development
-- 📫 How to reach me: sksldi0@gmail.com
