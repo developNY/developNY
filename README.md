@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Pycharm-83B81A?style=flat-square&logo=Pycharm&logoColor=white"/>
   
   <br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developNY&layout=compact)](https://github.com/developNY/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developNY&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=developNY&show_icons=true&theme=synthwave)](https://github.com/developNY/github-readme-stats)
 
