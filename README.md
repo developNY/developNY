@@ -17,8 +17,6 @@ I'm currently working as a SWE in Dallas.
       <img align="left" alt="Bri | Youtube" width="20px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/YouTube_23392.png" />
     </a>
  </span>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developNY&langs_count=10&layout=compact&theme=dark)](https://github.com/developNY/developNY)[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=developNY&show_icons=true&theme=synthwave)](https://github.com/developNY/developNY)
 
 |Skills|Experiences|
 |---|---|
@@ -27,3 +25,6 @@ I'm currently working as a SWE in Dallas.
 |3. Devops|<code><img alt = "3.1 SVN" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_subversion_icon_130138.png"> <a href="">SVN</a></code> <code><img alt = "3.2 GIT" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png"> <a href="">GIT</a></code> <code><img alt = "3.3 AWS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png"> <a href="">AWS</a></code> <code><img alt = "3.4 Linux" height="20" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png"> <a href="">Linux</a></code> <code><img alt = "3.5 Jenkins" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jenkins_icon_130515.png"> <a href="">Jenkins</a></code> |
 |4. DB|<code><img alt = "4.1 RDBMS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_db_icon_130469.png"> <a href="">RDBMS</a></code> <code><img alt = "4.2 Realm" height="20" src="https://pbs.twimg.com/profile_images/1364973913554497536/_ut-Y6_f_400x400.jpg"> <a href="">Realm</a></code> <code><img alt = "4.3 MongoDB" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png"> <a href="">MongoDB</a></code> |
 |5. Collaboration and Tools|<code><img alt = "5.1 JIRA" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/jira_logo_icon_147274.png"> <a href="">JIRA</a></code> <code><img alt = "5.2 Confluence" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/confluence_logo_icon_147305.png"> Confluence</code> <code><img alt = "5.3 Slack" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/slack_logo_icon_147236.png"> <a href="">Slack</a></code>|
+
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developNY&langs_count=10&layout=compact&theme=dark)](https://github.com/developNY/developNY)[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=developNY&show_icons=true&theme=synthwave)](https://github.com/developNY/developNY)
