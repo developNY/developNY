@@ -9,11 +9,13 @@ I'm currently working as a SWE in Dallas.
 - 🐳 Fun Fact! My MBTI is ESFJ
 - 💬 Give me Question [Click](https://github.com/developNY/developNY/issues)
 - 📫 How to reach me: sksldi0@gmail.com
-- <a href="https://www.instagram.com/bri_nyny/">
-  <img align="left" alt="bri_nyny | Instagram" width="20px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png" />
-</a><a href="https://www.youtube.com/channel/UCuQNkM1myjWvBR49M3tabPQ">
-  <img align="left" alt="Bri | Youtube" width="20px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/YouTube_23392.png" />
-</a>
+- <span>
+  <a href="https://www.instagram.com/bri_nyny/">
+    <img align="left" alt="bri_nyny | Instagram" width="20px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCuQNkM1myjWvBR49M3tabPQ">
+    <img align="left" alt="Bri | Youtube" width="20px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/YouTube_23392.png" />
+  </a>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developNY&langs_count=10&layout=compact&theme=dark)](https://github.com/developNY/developNY)[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=developNY&show_icons=true&theme=synthwave)](https://github.com/developNY/developNY)
 
