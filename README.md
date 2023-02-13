@@ -15,7 +15,7 @@ I'm currently working as a SWE in Dallas.
     <a href="https://www.youtube.com/channel/UCuQNkM1myjWvBR49M3tabPQ">
       <img align="left" alt="Bri | Youtube" width="20px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/YouTube_23392.png" />
     </a>
-    <a href="[https://www.youtube.com/channel/UCuQNkM1myjWvBR49M3tabPQ](https://m.blog.naver.com/sksldi0)">
+    <a href="https://m.blog.naver.com/sksldi0">
       <img align="left" alt="Bri | Blog" width="20px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-blog-4661578_122455.png" />
     </a>
     <br />
