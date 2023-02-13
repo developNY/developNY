@@ -9,6 +9,9 @@ I'm currently working as a SWE in Dallas.
 - 🐳 Fun Fact! My MBTI is [ESFJ](https://www.16personalities.com/esfj-personality)
 - 💬 Give me Question [Click](https://github.com/developNY/developNY/issues)
 - <span>
+    <a href="https://www.linkedin.com/in/nayeon-kim-cs/">
+      <img align="left" alt="Nayeon Kim | LinkedIn" width="20px" src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" />
+    </a>
     <a href="https://www.instagram.com/bri_nyny/">
       <img align="left" alt="bri_nyny | Instagram" width="20px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png" />
     </a>
@@ -17,6 +20,9 @@ I'm currently working as a SWE in Dallas.
     </a>
     <a href="https://blog.naver.com/sksldi0">
       <img align="left" alt="Bri | Blog" width="20px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-blog-4661578_122455.png" />
+    </a>
+    <a href="https://sites.google.com/view/nayeon-kim-cv">
+      <img align="left" alt="Nayeon | Portfolio" width="20px" src="https://cdn.icon-icons.com/icons2/3070/PNG/512/portfolio_briefcase_showcase_business_adobe_portfolio_icon_191043.png" />
     </a>
     <br />
  </span>
