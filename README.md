@@ -1,4 +1,4 @@
-### Howdy 👋
+## Howdy 👋
 
 Welcome to my space! I'm [Nayeon Kim](https://www.linkedin.com/in/nayeon-kim-cs/), in Dallas, United States <br/>
 I'm currently working as a SWE in Dallas.
