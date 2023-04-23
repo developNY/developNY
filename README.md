@@ -24,7 +24,8 @@ I'm currently working as a SWE in Dallas.
     <a href="https://sites.google.com/view/nayeon-kim-cv">
       <img align="left" alt="Nayeon | Portfolio" width="20px" src="https://cdn.icon-icons.com/icons2/3070/PNG/512/portfolio_briefcase_showcase_business_adobe_portfolio_icon_191043.png" />
     </a>
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D179EF&title_bg=%234F4A4A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+    
+    ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevelopNY%2Fedhit-counter&count_bg=%23DF86E5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
     <br />
  </span>
 
