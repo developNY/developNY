@@ -1,4 +1,4 @@
-## Howdy 👋
+## Howdy 👋  &nbsp;&nbsp;&nbsp;![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevelopNY%2Fedhit-counter&count_bg=%23DF86E5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 Welcome to my space! I'm [Nayeon Kim](https://www.linkedin.com/in/nayeon-kim-cs/), in Dallas, United States <br/>
 I'm currently working as a SWE in Dallas.
@@ -24,8 +24,6 @@ I'm currently working as a SWE in Dallas.
     <a href="https://sites.google.com/view/nayeon-kim-cv">
       <img align="left" alt="Nayeon | Portfolio" width="20px" src="https://cdn.icon-icons.com/icons2/3070/PNG/512/portfolio_briefcase_showcase_business_adobe_portfolio_icon_191043.png" />
     </a>
-    
-    ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevelopNY%2Fedhit-counter&count_bg=%23DF86E5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
     <br />
  </span>
 
