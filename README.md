@@ -7,7 +7,7 @@ I'm currently working as a SWE in Dallas.
 - 🔭 I had worked at [Inzent](https://www.inzent.com/) (Java Back-end Developer, SWE Intern)
 - 🌱 I’m currently learning Software Engineering & Machine Learning
 - 🐳 Fun Fact! My MBTI is [ESFJ](https://www.16personalities.com/esfj-personality)
-- 💬 Give me Question [here](https://github.com/developNY/developNY/issues)
+- 💬 Give me question [here](https://github.com/developNY/developNY/issues)
 - <span>
     <a href="https://www.linkedin.com/in/nayeon-kim-cs/">
       <img align="left" alt="Nayeon Kim | LinkedIn" width="20px" src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" />
