@@ -3,7 +3,7 @@
 Welcome to my space! I'm [Nayeon Kim](https://www.linkedin.com/in/nayeon-kim-cs/), in Dallas, United States <br/>
 I'm currently working as a SWE in Dallas.
 
-- 🔭 I'm currently working at [TraxID, LLC](http://traxid.com/) (Full-stack SWE Intern)
+- 🔭 I'm currently working at [TraxID, LLC](http://traxid.com/) (IT Project Lead)
 - 🔭 I had worked at [Inzent](https://www.inzent.com/) (Java Back-end Developer, SWE Intern)
 - 🌱 I’m currently learning Software Engineering & Machine Learning
 - 🐳 Fun Fact! My MBTI is [ESFJ](https://www.16personalities.com/esfj-personality)
